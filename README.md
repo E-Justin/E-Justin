@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @E-Justin
-- 👀 I’m interested in Python, JavaScript, and Data Analysis 
-- 🌱 I’m currently learning Data Analysis with Jupyter
+- 👀 I’m interested in Python, JavaScript, C++ and Data Analytics 
+- 🌱 I’m currently learning:
+-   * C++
+-   * Data Analytics with Jupyter
 - 
 - 📫 How to reach me: through linkedin @ https://www.linkedin.com/in/justin-ezell-23a952196/
 
