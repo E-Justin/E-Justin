@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @E-Justin
 - 👀 I’m interested in Python, JavaScript, C++ and Data Analytics 
 - 🌱 I’m currently learning:
--   * Trees and Linked Lists
+-   * Mongo db
 - 
 - 📫 How to reach me: through linkedin @ https://www.linkedin.com/in/justin-ezell-23a952196/
 
