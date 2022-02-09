@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @E-Justin
-- 👀 I’m interested in Python, JavaScript, C++ and Data Analytics 
+- 👀 I’m interested in Python, C++ and Data Analytics 
 - 🌱 I’m currently learning:
 -   * Mongo db
 -   * Jupyter lab
