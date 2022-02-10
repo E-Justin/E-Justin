@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning:
 -   * Mongo db
 -   * Jupyter lab
+-   * Pandas
+-   * Numpy
 -   
 - 📫 How to reach me: through linkedin @ https://www.linkedin.com/in/justin-ezell-23a952196/
 
