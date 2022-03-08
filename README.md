@@ -2,7 +2,6 @@
 - 👀 I’m interested in Python, C++ and Data Analytics 
 - 🌱 I’m currently learning:
 -   * Mongo db
--   * Jupyter lab
 -   * Pandas
 -   * Numpy
 -   
