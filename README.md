@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @E-Justin
 - 👀 I’m interested in Python, C++ and Data Analytics 
 - 🌱 I’m currently learning:
--   * Mongo db
--   * Pandas
--   * Numpy
+-   * Unit testing
+-   * GUIs
+-   
+-   
 -   
 - 📫 How to reach me: through linkedin @ https://www.linkedin.com/in/justin-ezell-23a952196/
 
