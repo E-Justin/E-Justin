@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @E-Justin
 - 👀 I’m interested in Python, C++ and Data Analytics 
 - 🌱 I’m currently learning:
--   * Unit testing
--   * GUIs
+-   * Django
 -   
 -   
 -   
