@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, C++ and Data Analytics 
 - 🌱 I’m currently learning:
 -   * web scraping
--   
+-   * SQL
 -   
 -   
 - 📫 How to reach me: through linkedin @ https://www.linkedin.com/in/justin-ezell-23a952196/
