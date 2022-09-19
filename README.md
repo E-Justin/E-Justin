@@ -4,7 +4,7 @@
 -   * web scraping
 -   * SQL
 -   * Selenium
--   
+-   * C#
 - 📫 How to reach me: through linkedin @ https://www.linkedin.com/in/justin-ezell-23a952196/
 
 <!---
