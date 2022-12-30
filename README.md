@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @E-Justin
-- 👀 I’m interested in Python, and Data Analytics 
 - 🌱 I’m currently learning:
 -   * Playwright
 -   * javascript
