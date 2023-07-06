@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @E-Justin
 - 🌱 I’m currently learning:
--   * Playwright
 -   * javascript
--   * C#
+-   * C
 - 📫 How to reach me: through linkedin @ https://www.linkedin.com/in/justin-ezell-23a952196/
 
 <!---
